@@ -1,6 +1,7 @@
 # CS121-Labs&Projects <br/>
 **Course:** CS 121 (Computer Science I) <br/>
 **Course Professor:** [Dr. Sanish Rai](https://engineering.wvutech.edu/faculty-and-staff-directory/sanish-rai) <br/>
+**University:** [West Virginia University Institute of Technology](https://www.wvutech.edu/)
 **Language:** Java <br/>
 **Course Taken:** Fall 2018 <br/> <br/>
 
