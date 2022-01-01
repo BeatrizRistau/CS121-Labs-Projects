@@ -16,6 +16,7 @@ public class Method {
     
     System.out.println("The result is: " + two(num,dec));
   }
+  
   public static int one(int x , int y) {
     
     if (x > y) 
