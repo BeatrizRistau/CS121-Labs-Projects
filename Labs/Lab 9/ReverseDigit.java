@@ -22,8 +22,7 @@ public class ReverseDigit {
   }
   
   // method to reverse the number entered by the user
-  public static int reverseDigit (int value)
-  {
+  public static int reverseDigit (int value) {
     int revNum;
     
     revNum = value % 10; // get the last digit of the number
